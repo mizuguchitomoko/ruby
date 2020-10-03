@@ -1,1 +1,1 @@
-puts "WEBCAMPプログラミング学習".include?("WEBCAMP")
+puts "webcamp".upcase
